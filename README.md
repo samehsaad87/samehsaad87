@@ -1,19 +1,19 @@
-# Sameh Saad
+# Sameh Ishaq
 
-## Project Management | AI Automation | Python
+**Project Manager | AI Automation | Python | Construction Project Management**
 
-Construction Project Management professional building practical AI automation solutions for project controls, reporting, risk management, cost control, and business workflows.
+I build practical AI automation solutions that combine project management workflows with Python and AI technologies.
 
-## Construction Project Management + AI
+## 🏗️ Construction Project Management + AI
 
-- Construction Risk Assistant
 - AI Change Order Analyzer
 - AI Contract Administration Assistant
 - AI Cost Control Assistant
 - AI Schedule & Project Controls
 - AI Meeting & Executive Reporting
+- Construction Risk Assistant
 
-## AI Automation
+## 🤖 AI Automation
 
 - AI Client Manager
 - AI Client Report Generator
@@ -21,20 +21,10 @@ Construction Project Management professional building practical AI automation so
 - OpenAI Business Assistant
 - AI Email Automation
 
-## Technologies
+## 🛠️ Technologies
 
-Python | OpenAI API | Pandas | APIs | Automation | Git | GitHub
-<!--
-**samehsaad87/samehsaad87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python • OpenAI API • Pandas • APIs • Automation • Git • GitHub
 
-Here are some ideas to get you started:
+## 🎯 Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construction Project Management • Project Controls • Risk Management • Cost Control • Contract Administration • AI Automation
